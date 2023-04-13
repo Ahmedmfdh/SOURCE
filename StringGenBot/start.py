@@ -28,7 +28,7 @@ async def start(bot: Client, msg: Message):
                     InlineKeyboardButton(text="🌐 ⍆ اضغط لبدا استخراج كود ⍅🌐", callback_data="generate")
                 ],
                 [
-                    InlineKeyboardButton("⚙ الــســــوࢪسـ ⚙️", url="https://t.me/mxkdidc"),
+                    InlineKeyboardButton("⚙ الــســــوࢪسـ ⚙️", url="https://t.me/ndkddbh"),
                     InlineKeyboardButton("Medooo", user_id=5319739039)
                 ]
             ]
